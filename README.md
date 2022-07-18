@@ -15,5 +15,3 @@ As there is always a but in a good story a security that I have not managed to s
 you can see that in line 62 I tried to avoid this flaw without success:
 
 > require(amountNFTsperWalletPublicSale[msg.sender] + _quantity <= 1, "You can only get 1 on the Public Sale");
-
-Translated with www.DeepL.com/Translator (free version)
