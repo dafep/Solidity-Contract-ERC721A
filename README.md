@@ -1,6 +1,6 @@
 # Smart Contract ERC721A
 
-The Smart Contract ERC721A was written by the NFT Azuki project. It's a contract that allows to reduce the cost by about 5 times compared to the ERC721 contract, the contract that I wrote was tested in real condition and the cost of the fees was around 5 to 18 dollars depending on the day and the activity of the block
+The Smart Contract ERC721A was written by the NFT Azuki project. It's a contract that allows to reduce the cost by about 5 times compared to the ERC721 contract, the contract that I wrote was tested in real condition and the cost of the fees was around 5 to 18 $ depending on the day and the activity of the block
 
 The first two files "ERC721A.sol" and "IERC721A.sol" are files that I imported to write my contract and the code I wrote is in the file "dafep.sol"
 
